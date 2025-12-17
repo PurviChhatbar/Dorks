@@ -1,0 +1,31 @@
+Rate-Limit
+CORS (cross-origin-resource sharing)
+CSRF (cross-site-request-forgery)
+Exit metadata tool
+IDOR (Insecure direct object refrences)
+Information Discclosure 
+JWT token
+LFI (Local file inclusion)
+Logic Vulnerability
+Nmap+Exploitation scenario
+Open redirect 
+Forget password & account recovery vulnerability scenarious 
+SQL injection scenarios and VRT classification for burp suite
+SSRF (Server side request forgery)
+Subdomain takeover 
+XSS (Cross site scripting)
+HTML (Hyper text markup language)
+SSTL (server side temmplate injection)
+SPF (Sender policy framework)
+JIRA Vulnerability
+OTP bypass vulnerability 
+Account takeover vulnerability 
+CDN vulnerability
+Host header injection - all unique & directly reportable scenarios 
+Race condition
+Command injection scenarios - for burp suite testing
+RCE (remote code execution)
+Apache tomacat vulnerability 
+Cloud flare bypass origin-ip
+parameter testing on the requests 
+CVE based hunting 
